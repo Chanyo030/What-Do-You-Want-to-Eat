@@ -1,0 +1,44 @@
+.question {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+
+}
+
+#restaurant {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    font-size: 25px;
+
+    #breakfastDiv,
+    #lunchDiv,
+    #dinnerDiv,
+    #snackDiv,
+    #drinksDiv {
+        padding-left: 50px;
+    }
+
+
+
+}
+
+#btnGo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 50%;
+    top: 50px;
+}
+
+#eatDiv {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    top: 80px;
+}

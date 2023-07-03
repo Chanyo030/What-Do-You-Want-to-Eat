@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Selector</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <h1 class="question">吃什麼</h1>
+
+    <div id="restaurant">
+        <div id="breakfastDiv">
+            <label class="form-check-label" for="breakfast">早餐</label>
+            <input class="form-check-input" type="checkbox" id="breakfast" value="breakfast">
+        </div>
+        <div id="lunchDiv">
+            <label class="form-check-label" for="lunch">午餐</label>
+            <input class="form-check-input" type="checkbox" id="lunch" value="lunch">
+        </div>
+        <div id="dinnerDiv">
+            <label class="form-check-label" for="dinner">晚餐</label>
+            <input class="form-check-input" type="checkbox" id="dinner" value="dinner">
+        </div>
+        <div id="snackDiv">
+            <label class="form-check-label" for="snack">零食點心</label>
+            <input class="form-check-input" type="checkbox" id="snack" value="snack">
+        </div>
+        <div id="drinksDiv">
+            <label class="form-check-label" for="drinks">飲料</label>
+            <input class="form-check-input" type="checkbox" id="drinks" value="drinks">
+        </div>
+
+
+    </div>
+    <button type="button" class="btn btn-outline-light" id="btnGo">Roll</button>
+
+    <div id="eatDiv">
+        <h1 id="eat">吃.....<i class="fa-solid fa-face-surprise fa-bounce" style="color: #ffd43b;"></i></h1>
+    </div>
+
+
+
+    <script src="./main.js"></script>
+</body>
+
+</html>

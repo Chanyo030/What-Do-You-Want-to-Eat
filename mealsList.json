@@ -1,0 +1,184 @@
+[
+    {
+        "name": "食在一方",
+        "category": [
+            "breakfast",
+            "brunch"
+        ],
+        "filter": false
+    },
+    {
+        "name": "日十",
+        "category": [
+            "breakfast",
+            "brunch"
+        ],
+        "filter": false
+    },
+    {
+        "name": "麥當勞",
+        "category": [
+            "breakfast",
+            "lunch",
+            "dinner"
+        ],
+        "filter": false
+    },
+    {
+        "name": "小飯糰大飯糰",
+        "category": [
+            "breakfast",
+            "lunch"
+        ],
+        "filter": false
+    },
+    {
+        "name": "魚耶",
+        "category": [
+            "breakfast",
+            "lunch"
+        ],
+        "filter": false
+    },
+    {
+        "name": "源和珍捲餅世家",
+        "category": [
+            "breakfast",
+            "lunch"
+        ],
+        "filter": false
+    },
+    {
+        "name": "炒飯",
+        "category": [
+            "lunch"
+        ],
+        "filter": false
+    },
+    {
+        "name": "後校門滷肉飯",
+        "category": [
+            "lunch"
+        ],
+        "filter": false
+    },
+    {
+        "name": "神武日本拉麵",
+        "category": [
+            "lunch"
+        ],
+        "filter": false
+    },
+    {
+        "name": "甲侯八拉麵",
+        "category": [
+            "lunch"
+        ],
+        "filter": false
+    },
+    {
+        "name": "鹽行站",
+        "category": [
+            "dinner"
+        ],
+        "filter": false
+    },
+    {
+        "name": "鍋燒麵",
+        "category": [
+            "dinner"
+        ],
+        "filter": false
+    },
+    {
+        "name": "八方雲集",
+        "category": [
+            "dinner"
+        ],
+        "filter": false
+    },
+    {
+        "name": "火鍋",
+        "category": [
+            "dinner"
+        ],
+        "filter": false
+    },
+    {
+        "name": "韓式料理",
+        "category": [
+            "dinner"
+        ],
+        "filter": false
+    },
+    {
+        "name": "吳家鴨香飯",
+        "category": [
+            "dinner"
+        ],
+        "filter": false
+    },
+    {
+        "name": "麻古茶坊",
+        "category": [
+            "drinks"
+        ],
+        "filter": false
+    },
+    {
+        "name": "貢茶",
+        "category": [
+            "drinks"
+        ],
+        "filter": false
+    },
+    {
+        "name": "双十八木",
+        "category": [
+            "drinks"
+        ],
+        "filter": false
+    },
+    {
+        "name": "鮮茶道",
+        "category": [
+            "drinks"
+        ],
+        "filter": false
+    },
+    {
+        "name": "小上海",
+        "category": [
+            "snack"
+        ],
+        "filter": false
+    },
+    {
+        "name": "7-11",
+        "category": [
+            "snack"
+        ],
+        "filter": false
+    },
+    {
+        "name": "真撰軒綠豆湯",
+        "category": [
+            "snack"
+        ],
+        "filter": false
+    },
+    {
+        "name": "萊爾富",
+        "category": [
+            "snack"
+        ],
+        "filter": false
+    },
+    {
+        "name": "大新果汁店",
+        "category": [
+            "snack"
+        ],
+        "filter": false
+    }
+]
